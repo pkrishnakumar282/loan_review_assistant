@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": 0,
+    "text": "LOAN APPLICATION Applicant Name: Raj Kumar Date of Birth: 15/08/1999 Employment Type: Salaried Employer: ABC Technologies Pvt Ltd Designation: Software Engineer Annual Income: Rs. 840000 Monthly Income: Rs. 70000 Existing EMI: Rs. 18000 Requested Loan Amount: Rs. 2500000 Requested Tenure: 60 months Credit Score: 742 PAN: ABCPK1234X Residential Address: 24, Anna Nagar, Chennai, Tamil Nadu TEST DATA ONLY — NOT A REAL BANKING OR IDENTITY DOCUMENT.",
+    "source": "01_loan_application.pdf",
+    "page": 1
+  },
+  {
+    "chunk_id": 0,
+    "text": "SALARY SLIP - AUGUST 2026 Employee Name: Raj Kumar Employee ID: EMP1024 Employer: ABC Technologies Pvt Ltd Designation: Software Engineer Basic Salary: Rs. 45000 House Rent Allowance: Rs. 15000 Other Allowance: Rs. 10000 Gross Salary: Rs. 70000 Deductions: Rs. 5000 Net Salary: Rs. 65000 Pay Month: August 2026 TEST DATA ONLY — NOT A REAL BANKING OR IDENTITY DOCUMENT.",
+    "source": "02_salary_slip.pdf",
+    "page": 1
+  },
+  {
+    "chunk_id": 0,
+    "text": "BANK ACCOUNT STATEMENT Account Holder: Raj Kumar Account Number: XXXX1234 Bank: Sample National Bank Statement Period: June 2026 - August 2026 Opening Balance: Rs. 125000 Monthly Salary Credit: Rs. 70000 Existing EMI Debit: Rs. 18000 Average Monthly Balance: Rs. 138500 Closing Balance: Rs. 145000 TEST DATA ONLY — NOT A REAL BANKING OR IDENTITY DOCUMENT.",
+    "source": "03_bank_statement.pdf",
+    "page": 1
+  },
+  {
+    "chunk_id": 0,
+    "text": "PERMANENT ACCOUNT NUMBER - SAMPLE Name: Raj Kumar PAN Number: ABCPK1234X Date of Birth: 15/08/1999 Document Type: PAN Card Note: This is a fictional document created only for software testing. TEST DATA ONLY — NOT A REAL BANKING OR IDENTITY DOCUMENT.",
+    "source": "04_pan.pdf",
+    "page": 1
+  },
+  {
+    "chunk_id": 0,
+    "text": "IDENTITY PROOF - SAMPLE Name: Raj Kumar Date of Birth: 15/08/1999 Document Type: Identity Proof Address: 24, Anna Nagar, Chennai, Tamil Nadu Document Number: XXXX-XXXX-7788 Note: This is a fictional document created only for software testing. TEST DATA ONLY — NOT A REAL BANKING OR IDENTITY DOCUMENT.",
+    "source": "05_identity_proof.pdf",
+    "page": 1
+  },
+  {
+    "chunk_id": 0,
+    "text": "ADDRESS PROOF - SAMPLE Name: Raj Kumar Residential Address: 24, Anna Nagar, Chennai, Tamil Nadu Document Type: Address Proof Document Number: ADDR-2026-1024 Note: This is a fictional document created only for software testing. TEST DATA ONLY — NOT A REAL BANKING OR IDENTITY DOCUMENT.",
+    "source": "06_address_proof.pdf",
+    "page": 1
+  }
+]
